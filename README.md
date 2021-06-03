@@ -8,3 +8,5 @@ Source to learn ajax.
   - [AJAX Crash Course Vanilla JavaScript](https://www.youtube.com/watch?v=82hnvUYY6QA " AJAX Crash Course Vanilla JavaScript"). 
   - [Live Search](https://www.youtube.com/watch?v=XR8h21VFJ9c " Live Search in PHP using AJAX"). 
   - [Number Facts App-Ajax & Fetch Vanilla JS](https://www.youtube.com/watch?v=tUE2Nic21BA " Vanilla JS Number Facts App -Ajax & Fetch"). 
+  - https://www.youtube.com/watch?v=lIKrfLWNsUI
+  - https://www.youtube.com/watch?v=x3OYLQFPfd0
